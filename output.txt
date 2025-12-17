@@ -1,0 +1,51 @@
+=== Tower Defence Game Started ===
+
+--- Step 1 ---
+Enemy 1 moved to position 1
+Enemy 2 moved to position 1
+Enemy 3 moved to position 1
+
+--- Step 2 ---
+Enemy 1 moved to position 2
+Enemy 2 moved to position 2
+Enemy 3 moved to position 2
+
+--- Step 3 ---
+Enemy 1 moved to position 3
+Enemy 2 moved to position 3
+Enemy 3 moved to position 3
+
+--- Step 4 ---
+Enemy 1 moved to position 4
+Enemy 2 moved to position 4
+Enemy 3 moved to position 4
+
+--- Step 5 ---
+Enemy 1 moved to position 5
+Tower attacked Enemy 1! Health = 30
+Enemy 2 moved to position 5
+Tower attacked Enemy 2! Health = 30
+Enemy 3 moved to position 5
+Tower attacked Enemy 3! Health = 30
+
+--- Step 6 ---
+Enemy 1 moved to position 6
+Tower attacked Enemy 1! Health = 10
+Enemy 2 moved to position 6
+Tower attacked Enemy 2! Health = 10
+Enemy 3 moved to position 6
+Tower attacked Enemy 3! Health = 10
+
+--- Step 7 ---
+Enemy 1 moved to position 7
+Tower attacked Enemy 1! Health = -10
+Enemy 1 destroyed by tower!
+Enemy 2 moved to position 7
+Tower attacked Enemy 2! Health = -10
+Enemy 2 destroyed by tower!
+Enemy 3 moved to position 7
+Tower attacked Enemy 3! Health = -10
+Enemy 3 destroyed by tower!
+
+All enemies eliminated.
+YOU WIN!
